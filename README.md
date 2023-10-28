@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
- [![Leetcode Stats](https://leetcard.jacoblin.cool/MikSuki?ext=contest)](https://leetcode.com/MikSuki)
+ [![Leetcode Stats](https://leetcard.jacoblin.cool/MikSuki)](https://leetcode.com/MikSuki)
 
 
